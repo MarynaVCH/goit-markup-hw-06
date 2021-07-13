@@ -582,7 +582,41 @@ background-color: rgba(255, 255, 255, 0.1);;
 
 .footer-container {
   margin-left: 70px;
+  margin-right: 93px;
 }
+
+/* .signup {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 4px;
+} */
+
+.footer-btn {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.06em;
+  padding: 10px 0px 10px 29px;
+  margin-left: 12px;
+  margin-right: 10px;
+  color: var(--white-color);
+  background-color: var(--accent-color);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  border: none;
+}
+
+.signup{
+  margin-left: 10px;
+  margin-right: 28px;
+  vertical-align: middle;
+}
+
+
+  
+
+ 
+  
+
 /* =========END FOOTER ========= */
 
 .backdrop {
